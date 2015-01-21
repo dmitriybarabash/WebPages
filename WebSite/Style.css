@@ -1,0 +1,47 @@
+@import "x_GSDK_production_1.3/bootstrap3/css/bootstrap-theme.css";
+@import "x_GSDK_production_1.3/bootstrap3/css/bootstrap.css";
+/* Hello Page */
+body {
+    background : #1084FF;
+    width : 1900px;
+    height : 960px;
+}
+.hello, .info {
+    font-size : 55px;
+    font-family : "Myriad Pro";
+    font-weight : 100;
+    color : #ffffff;
+    padding-top : 40px;
+    padding-left: 50px;
+}
+.btn, .btn-primary, .btn-lg {
+    width : 170px;
+    background : none;
+    border-color: #ffffff;
+    margin-left : 50px;
+    margin-top : 25px;
+}
+/* Log In Page */
+.form-control, .please {
+    position : relative;
+    top : 400px;
+    width : 150px;
+    height : 40px;
+    margin-top : 20px;
+    margin-left : 800px ;
+}
+.please {
+    color : #ffffff;
+    font-size : 17px ;
+    padding-left: 2px;
+    font-weight : bold;
+}
+select {
+    width : 150px;
+    height : 40px;
+    margin-top : 400px;
+    margin-left : 800px;
+    border-radius: 4px;
+    color : darkgrey;
+    padding-left : 10px ;
+}
